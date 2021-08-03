@@ -1,0 +1,174 @@
+{
+  "routes": [
+    {
+      "id": 107,
+      "agencyId": 18,
+      "routeShortName": "107",
+      "routeLongName": "Pruszcz Gd. Komarowo - Pruszcz Gd. Rondo Kaszubskie",
+      "activationDate": "2021-07-31",
+      "routeType": "BUS"
+    },
+    {
+      "id": 117,
+      "agencyId": 18,
+      "routeShortName": "117",
+      "routeLongName": "Sopot Hestii - Sopot Przylesie",
+      "activationDate": "2021-07-31",
+      "routeType": "BUS"
+    },
+    {
+      "id": 126,
+      "agencyId": 20,
+      "routeShortName": "126",
+      "routeLongName": "Wrzeszcz PKP - Żukowo Urząd Gminy",
+      "activationDate": "2021-07-31",
+      "routeType": "BUS"
+    },
+    {
+      "id": 132,
+      "agencyId": 20,
+      "routeShortName": "132",
+      "routeLongName": "Wały Piastowskie - Pruszcz Gd. Rondo Kociewskie",
+      "activationDate": "2021-07-31",
+      "routeType": "BUS"
+    }
+  ],
+  "tickets": [
+    {
+      "DataWaznosciOd": "2020-05-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "90.00",
+      "Typ": "okresowy",
+      "Strefa": "Miasto Gdańsk",
+      "Taryfa": "Miesięczny, normalny, ważny od poniedziałku do piątku, imienny"
+    },
+    {
+      "DataWaznosciOd": "2020-05-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "64.00",
+      "Typ": "okresowy",
+      "Strefa": "na linie zwykłe, pospieszne i nocne w granicach Gminy Kolbudy",
+      "Taryfa": "Miesięczny, normalny, ważny od poniedziałku do piątku, imienny"
+    },
+    {
+      "DataWaznosciOd": "2020-05-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "64.00",
+      "Typ": "okresowy",
+      "Strefa": "na linie zwykłe, pospieszne i nocne w granicach Pruszcza Gdańskiego",
+      "Taryfa": "Miesięczny, normalny, ważny od poniedziałku do piątku, imienny"
+    },
+    {
+      "DataWaznosciOd": "2020-05-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "162.00",
+      "Typ": "okresowy",
+      "Strefa": "na linie zwykłe, pospieszne i nocne w granicach Sopotu",
+      "Taryfa": "5-miesięczny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2020-05-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "270.00",
+      "Typ": "okresowy",
+      "Strefa": "na linie zwykłe, pospieszne i nocne w granicach Gdańska, Gminy Kolbudy, Pruszcza Gd., Gminy Pruszcz Gd., Gminy Żukowo i Sopotu",
+      "Taryfa": "5-miesięczny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2020-04-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "3.80",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "Na jeden przejazd, na linie zwykłe, pospieszne i nocne, normalny"
+    },
+    {
+      "DataWaznosciOd": "2020-04-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "1.90",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "Na jeden przejazd, na linie zwykłe, pospieszne i nocne, ulgowy"
+    },
+    {
+      "DataWaznosciOd": "2020-04-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "4.40",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "1-godzinny, na linie zwykłe, pospieszne i nocne, normalny"
+    },
+    {
+      "DataWaznosciOd": "2020-04-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "2.20",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "1-godzinny, na linie zwykłe, pospieszne i nocne, ulgowy"
+    },
+    {
+      "DataWaznosciOd": "2020-04-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "14.00",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "24-godzinny, na wszystkie linie, normalny"
+    },
+    {
+      "DataWaznosciOd": "2020-04-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "7.00",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "24-godzinny, na wszystkie linie, ulgowy"
+    },
+    {
+      "DataWaznosciOd": "2020-04-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "0.10",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "Bilet uzupełniający służący wyłącznie jako dopłata do biletów jednorazowych"
+    },
+    {
+      "DataWaznosciOd": "2020-04-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "0.20",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "Bilet uzupełniający służący wyłącznie jako dopłata do biletów jednorazowych"
+    },
+    {
+      "DataWaznosciOd": "2020-04-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "0.50",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "Bilet uzupełniający służący wyłącznie jako dopłata do biletów jednorazowych"
+    },
+    {
+      "DataWaznosciOd": "2020-04-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "1.00",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "Bilet uzupełniający służący wyłącznie jako dopłata do biletów jednorazowych"
+    },
+    {
+      "DataWaznosciOd": "2020-04-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "0.30",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "Bilet uzupełniający służący wyłącznie jako dopłata do biletów jednorazowych"
+    },
+    {
+      "DataWaznosciOd": "2020-04-01",
+      "DataWaznosciDo": "2074-12-31",
+      "Cena": "0.60",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "Bilet uzupełniający służący wyłącznie jako dopłata do biletów jednorazowych"
+    }
+  ]
+}
